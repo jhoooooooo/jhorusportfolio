@@ -1,0 +1,176 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: black;
+    scroll-behavior: smooth;
+  }
+  
+  .navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 30px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 1000; 
+  }
+  
+  .logo a {
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    text-decoration: none;
+    margin-left: 30px;
+  }
+  
+  .nav-links {
+    list-style-type: none;
+    display: flex;
+  }
+  
+  .nav-links li {
+    margin: 0 20px;
+    font-size: 25px;
+    font-weight: bold;
+  }
+  
+  .nav-links li a {
+    color: white;
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+  
+  .nav-links li a:hover {
+    color: orange;
+  }
+  .portfolio {
+    color: orange;
+  }
+
+.background {
+    background-image: url("https://media.istockphoto.com/id/1416335096/photo/businessman-hand-holding-smart-phone-with-icon-mobile-phone-mail-telephone-and-address.jpg?s=612x612&w=0&k=20&c=ajOYHJPqlaKZ04BeSf5m3MsuZ_YGyxrUqEGMaS1hGGk=");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 20px;
+}
+
+#nav_jhorus{
+   margin-left: auto;
+   letter-spacing: 10px;
+   font-size: 29px;
+   position: fixed;
+   color: chocolate;
+   font: Arial, Helvetica, sans-serif;
+
+}
+
+.certificates img{
+    padding: 14px 16px;
+}
+
+.album img{
+    padding: 8px 14px;
+    
+}
+
+.info{
+    margin-left: 7%;
+    margin-top: 6%;
+}
+ 
+.info h1{
+    font-size: 70px;
+    color: whitesmoke;
+}
+
+.info h3{
+    font-size: 18px;
+    letter-spacing: 1px;
+    line-height: 25px;
+}
+
+ span{
+    color: white;
+}
+
+
+
+.image img{
+    margin-top: 10px;
+    height: 400px;
+    width: 600px;
+}
+
+
+.social-media a{
+    text-decoration: none;
+    background-color: white;
+    padding: 30%;
+}
+
+.social-media ion-icon{
+    margin-left: 10%;
+    color: white;
+    margin-right: 50px;
+    font-size: 100px;
+    transition: all 0.7s ease 0;;
+
+}
+
+.social-media {
+    margin: 25px 50px 75px 100pxD;
+    display: flex;
+    justify-content: center;
+}
+
+
+img{
+    width: 300;
+    height: 200;
+}
+
+body{
+    background-image: url("https://w.wallha.com/ws/14/84AE7Fan.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+ }
+
+ div {
+    padding-top: 60px;
+    padding-right: 40px;
+    padding-bottom: 40px;
+    padding-left: 90px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.h1 img {
+    padding: 29%;
+}
+
+mark {
+    background-color: #008080;
+    color: black;
+}
+
+.image h1{
+    font-size: 150%;
+}
+
+h1{
+    font-size: 190%;
+}
+
+iframe {
+    margin-bottom: 10px;
+    margin-left: 20px;
+    height: 400px;
+    width: 600px;
+}
+
